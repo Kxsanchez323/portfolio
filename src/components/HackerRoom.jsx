@@ -11,6 +11,7 @@ export default function HackerRoom(props) {
 
   const monitortxt = useTexture('textures/desk/monitor.png');
   const screenTxt = useTexture('textures/desk/screen.png');
+  const logoTxt = useTexture('textures/desk/logo.png');
 
   return (
     <group {...props} dispose={null}>
