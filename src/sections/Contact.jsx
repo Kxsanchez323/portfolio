@@ -46,7 +46,7 @@ const Contact = () => {
           <h3 className="head-text">Let's talk</h3>
           <p className="text-lg text-white-600 mt-3">
             Whether you're looking to build a new website, improve your
-            exisiting platform, or bring your own ideas to lie, I'm here to
+            exisiting platform, or bring your own ideas to life, I'm here to
             help.
             <form
               ref={formref}
